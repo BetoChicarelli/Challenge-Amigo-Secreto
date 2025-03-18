@@ -22,12 +22,19 @@ Este projeto consiste em uma aplicação web simples para sorteio de **Amigo Sec
 
 ## 🔧 Instalação e Execução
 
-### 1. Clonar o repositório (caso esteja no GitHub):
-```sh
- git clone https://github.com/Betochicarelli/Challenge-Amigo-Secreto.git
-```
+### 1. Baixar o repositório Base.
+- Acesse o repositório no GitHub.
+- Clique no botão verde "Code".
+- Selecione "Download ZIP".
+- Extraia o arquivo ZIP no seu computador
 
-### 2. Abrir o projeto
+### 2. Criar um repositório em Github.
+- No canto superior direito, clique no ícone de + e selecione "New repository".
+- Escolha um nome para o repositório.
+- Defina se será público ou privado.
+- Clique em "Create repository.
+
+### 3. Abrir o projeto
 - Navegue até a pasta do projeto.
 - Abra o arquivo `index.html` no navegador.
 
